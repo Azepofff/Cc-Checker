@@ -1,1 +1,1 @@
-# Cc-Checker. 
+# Cc-Checker
